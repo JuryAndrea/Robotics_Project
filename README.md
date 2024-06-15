@@ -1,4 +1,13 @@
 # Robotics Final Project 
+
+:warning: This repository was created for the Robotics course project. 
+
+:no_entry_sign: It is not intended for reuse.
+
+:heart: Special thanks to my team [Christian Altrichter](https://github.com/Altricch) and [Francesco Huber](https://github.com/Frakk0) for their contributions.
+
+:white_check_mark: The Jupyter Notebook is self-explanatory and provides detailed explanations and comments within each cell.
+
 #### Group Z: Altrichter Christian, Jury Andrea D'Onofrio and Francesco Huber
 GitHub repository: [Click here](https://github.com/Altricch/robomaster_proj.git)
 
@@ -6,7 +15,6 @@ Enjoy our video repository: [Click here](https://usi365-my.sharepoint.com/:f:/g/
 
 ## Remark
 We suggest to use a M1 Pro or equivalent processor to run our simulation as we have experienced errors with regards to the sensor reading updates. This could subsequently lead to a faulty execution (e.g. robot does not stop spinning / scanning the perimeter). If not used with an M1, we cannot guarantee correct execution due to the internal logic of our clock.
-
 <br/><br/>
 To `launch` our code, we use the provided `robomaster_ros s1.launch` in `cd dev_ws/src/robomaster_ros/robomaster_ros/launch`
 
